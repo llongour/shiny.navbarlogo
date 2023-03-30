@@ -16,6 +16,8 @@ knitr::opts_chunk$set(
 # shiny.navbarlogo
 
 <!-- badges: start -->
+[![R-CMD-check](https://github.com/llongour/shiny.navbarlogo/actions/workflows/R-CMD-check.yaml/badge.svg)](https://github.com/llongour/shiny.navbarlogo/actions/workflows/R-CMD-check.yaml)
+[![shiny.navbarlogo status badge](https://llongour.r-universe.dev/badges/shiny.navbarlogo)](https://llongour.r-universe.dev)
 <!-- badges: end -->
 
 The goal of shiny.navbarlogo is to help to add logo in navbarPage
