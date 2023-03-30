@@ -1,0 +1,13 @@
+Package: shiny.navbarlogo
+Title: Easily add logo in navbarPage
+Version: 0.1.0
+Authors@R: c(
+    person("Lucas", "Longour", email = "lucas.longour@protonmail.ch", 
+        role = c("cre","aut")))
+Description: Easily add logo in navbarPage.
+License: MIT + file LICENSE
+Encoding: UTF-8
+LazyData: true
+RoxygenNote: 7.2.1
+Imports:
+  htmltools
